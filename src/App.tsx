@@ -299,7 +299,7 @@ const Testimonials = () => (
           LearnX is the best platform for learning. I'm glad that I enrolled with it. Its design course and its faculty are very nice. I am a master in design now.
         </p>
         <div className="flex items-center space-x-4">
-          <img src="https://i.pravatar.cc/150?u=1" className="w-12 h-12 rounded-full border-2 border-brand-coral" referrerPolicy="no-referrer" />
+          <img src="https://i.pravatar.cc/150?u=2" className="w-12 h-12 rounded-full border-2 border-brand-coral" referrerPolicy="no-referrer" />
           <div>
             <p className="font-bold">Sarah Jenkins</p>
             <div className="flex text-yellow-400">
