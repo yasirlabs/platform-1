@@ -301,7 +301,7 @@ const Testimonials = () => (
         <div className="flex items-center space-x-4">
           <img src="https://i.pravatar.cc/150?u=2" className="w-12 h-12 rounded-full border-2 border-brand-coral" referrerPolicy="no-referrer" />
           <div>
-            <p className="font-bold">Sarah Jenkins</p>
+            <p className="font-bold">Jon Jenkins</p>
             <div className="flex text-yellow-400">
               {[1, 2, 3, 4, 5].map(i => <Star key={i} className="w-3 h-3 fill-current" />)}
             </div>
