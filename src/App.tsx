@@ -322,7 +322,7 @@ const Testimonials = () => (
           </div>
         </div>
         <img 
-          src="src/public/images/placeholder.svg" 
+          src="https://res.cloudinary.com/dvx6nsrd9/image/upload/v1773343211/placeholder_ova3fx.png" 
           alt="Student Success" 
           className="rounded-[2rem] shadow-lg"
           referrerPolicy="no-referrer"
