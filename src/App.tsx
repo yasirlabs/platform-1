@@ -223,7 +223,7 @@ const Mentorship = () => (
     <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center gap-12">
       <div className="md:w-1/2">
         <img 
-          src="src/public/images/team.png" 
+          src="https://res.cloudinary.com/dvx6nsrd9/image/upload/v1773343316/team_stbrev.png" 
           alt="Mentorship" 
           className="rounded-[2.5rem] shadow-2xl"
           referrerPolicy="no-referrer"
